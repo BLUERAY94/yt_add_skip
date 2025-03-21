@@ -7,7 +7,7 @@ Step 1) Git clone this repository.
 
 Step 2) Create Virtual Environement.
 
-Step 3) run pip install -r requiremenets.txt
+Step 3) run pip install -r requirements.txt
 
 Step 4) run 'cursor_position_caliberation.py' script.
 
